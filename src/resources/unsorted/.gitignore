@@ -1,0 +1,6 @@
+Test.py
+.idea/
+*.iml
+venv/
+excercises/
+webscraping/
